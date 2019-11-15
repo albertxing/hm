@@ -1,0 +1,26 @@
+body {
+	margin: 4em;
+}
+
+.col {
+	width: 160px;
+	margin: 0 auto;
+}
+
+canvas {
+	width: 160px;
+	height: 160px;
+	border: 1px solid;
+	display: block;
+	margin: 1em 0;
+}
+
+input {
+	display: block;
+	margin: 1em 0;
+}
+
+button {
+	display: block;
+	margin: 1em 0;
+}
