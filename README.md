@@ -1,6 +1,2 @@
----
-permalink: /index.html
----
-
 # hm
 🤔
